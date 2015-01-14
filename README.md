@@ -12,3 +12,4 @@ Web Test Framework for W3C and Crosswalk Test Suites.
 4. Templates
 5. Reports
 6. Rerun
+7. QRCode
